@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>4.jpg</filename>
+	<path>C:\Users\Harishankar\Downloads\models\research\object_detection\images\train\4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>613</width>
+		<height>538</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chandelier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>7</ymin>
+			<xmax>556</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+</annotation>

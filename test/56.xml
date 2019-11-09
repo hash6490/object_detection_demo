@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>56.jpg</filename>
+	<path>C:\Users\Harishankar\Downloads\models\research\object_detection\images\test\56.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>678</width>
+		<height>509</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chandelier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>16</ymin>
+			<xmax>542</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>
